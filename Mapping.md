@@ -36,8 +36,6 @@ import folium
 
 m = folium.Map(location=[39.9677493, -98.513166], zoom_start=4)
 
-# colors = [,,'#800080']
-
 for i in range(len(A)):
     folium.CircleMarker(
         location=[A["lat"][i], A["lng"][i]],
