@@ -1,5 +1,3 @@
-### [test](http://inoue0426.me/test)
-
 ## About.me
 ### Inoue Yoshitaka
 ### Nara Institute Science and Technology IS M1
@@ -8,4 +6,4 @@
 ### link
 
 #### [Twitter](https://twitter.com/inoue0426)
-#### [test](http://inoue0426.me/test)
+#### [Mapping in Geograph about Brewerys](http://inoue0426.me/Mapping)
