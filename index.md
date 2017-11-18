@@ -3,10 +3,7 @@
 ### Nara Institute Science and Technology IS M1
 ### Major in Bioinformatics/DataSciense
 
-### Article Survey
-#### [Bioinformatics](http://inoue0426.me/Bioinformatics)
-#### [MachinLearning](http://inoue0426.me/MachinLearning) 
-
+### [Article Survey](http://inoue0426.me/Article-Survey)
 <br />
 ### link
 #### [Twitter](https://twitter.com/inoue0426)
