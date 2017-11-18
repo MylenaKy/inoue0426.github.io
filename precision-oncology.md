@@ -1,4 +1,4 @@
-[Bioinformatics](http://inoue0426.me/Bioinformatics) [home](http://inoue0426.me/)
+[Bioinformatics](http://inoue0426.me/Bioinformatics)   [home](http://inoue0426.me/)
 
 ### Wei Zhang, Jeremy Chien, Jeongsik Yong and Rui Kuang. Network-based machine learning and graph theory algorithms for precision oncology.npj Precision Oncology (2017)
 <br>
