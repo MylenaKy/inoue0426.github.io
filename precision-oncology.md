@@ -12,9 +12,11 @@
 ##### KEGG Pathwayのネットワークを作成し、これにTCGAのMutationと10000個のrandomからのP値をマッピングしたものと遺伝子をenrichment analysisにかけ、超幾何検定をしたものから効果を比較検討した。
 5. 議論はあるか
 ##### 実際の現場で使う場合、
+
 - データの質 
 - 汎用性
 - スケーラビリティ
+
 ##### 上記の3つに問題があるため、これらを改善しなければならない
 6. 次に読むべき論文は？
 ##### [Hybrid approach of relation network and localized graph convolutional filtering for breast cancer subtype classification](https://arxiv.org/abs/1711.05859)
