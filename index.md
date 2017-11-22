@@ -8,5 +8,3 @@
 ### link
 #### [Twitter](https://twitter.com/inoue0426)
 #### [Qiita](https://qiita.com/inoue0426)
-### notebooks
-#### [Mapping in Geograph about Brewerys](http://inoue0426.me/Mapping)
