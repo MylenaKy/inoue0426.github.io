@@ -1,7 +1,7 @@
 [home](http://inoue0426.me/)
 
 ## Article Survey
-Bioinformaticsと機械学習に関して論文をSurveyし日本語で要約をまとめる。
+Bioinformaticsに関して論文をSurveyし日本語で要約をまとめる。
 
 ### [Bioinformatics](http://inoue0426.me/Bioinformatics)
 
